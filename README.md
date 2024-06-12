@@ -15,7 +15,7 @@ A paper reading list on ML/AI/NLP by topics
 - [Llama-2](https://arxiv.org/abs/2307.09288)
 - [Direct Preference Optimization](https://arxiv.org/abs/2305.18290)
 ### Prompting Techniques
-* [Chain-of-Thoughts] https://arxiv.org/abs/2201.11903
+* [Chain-of-Thoughts](https://arxiv.org/abs/2201.11903)
 * [ReAct](https://arxiv.org/abs/2210.03629)
 * [CoT-SC](https://arxiv.org/abs/2203.11171)
 * [Tree-of-Thoughts](https://arxiv.org/abs/2305.10601)
